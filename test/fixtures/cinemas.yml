@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ville: MyString
+  adresse: MyString
+  seancehoraire: MyString
+  nom: MyString
+  film_id: 1
+
+two:
+  ville: MyString
+  adresse: MyString
+  seancehoraire: MyString
+  nom: MyString
+  film_id:1
